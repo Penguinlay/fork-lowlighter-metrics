@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="142" class="">
+    <defs>
+        <style/>
+    </defs>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.tracklist{display:flex;flex-direction:column;align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style/>
+    <foreignObject x="0" y="0" width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
+            <section>
+                <h2 class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"/>
+                    </svg>
+                    Suggested tracks
+                </h2>
+                <div class="row fill-width">
+                    <section>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M2.002 2.725a.75.75 0 01.797-.699C8.79 2.42 13.58 7.21 13.974 13.201a.75.75 0 11-1.497.098 10.502 10.502 0 00-9.776-9.776.75.75 0 01-.7-.798zM2 13a1 1 0 112 0 1 1 0 01-2 0zm.84-5.95a.75.75 0 00-.179 1.489c2.509.3 4.5 2.291 4.8 4.8a.75.75 0 101.49-.178A7.003 7.003 0 002.838 7.05z"/>
+                            </svg>
+                            From Apple Music
+                        </div>
+                        <div class="tracklist">
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwEDBAL/xAAuEAABAwMDAgQGAgMAAAAAAAABAgMEAAUREiExBkEHEyJhFCMyUXGRFYFCocH/xAAYAQEAAwEAAAAAAAAAAAAAAAACAAEDBP/EABsRAAIDAQEBAAAAAAAAAAAAAAABAhEhMQNh/9oADAMBAAIRAxEAPwBLnMXZua84l15SXXFYbKzuM9hmrS8O7tB6c6CVOkMGVdZjrilND0nSg6QFE8Dv/dcLkdr4hTYIKgFaVbZ/I7CtfS/T8GZ1CYnUUlOH0FEdrOhC1dgMd+ds5pTqtD5q2abz4kC6wZMG42tDIdSdHlPepB5BIIpBnTZTkRL623FIKtCXePVjarquXhn08ksFwFMkJVqS0o6VntnJJx/dVF1HdrUq0M2yDDkxJLD2mUF6FpcUnI1a/q5zhPAzUg01hfpFxxkI7cpSVpSmVJ0DfZw5FFeISYpbeD7bq1KHy1tq+k+4PNFMxdln61tykpeCfLJyHM7GlbrR0rvbKvNWPJZC0YJGFZ5H65pwakxz5jjzIcYUPU3qxvnkfY+1KHVkm3/yzD6oq1sKbKUEk7FJ3Hv9sVB/R+8Keqrx1DdGot4dYFvt7ZfkS3EgLWOEpUo7cnOeTiqZvbjb95nPMY8lx9xaNv8AEqJH+qkVS7WqM4gICHFEYPq3Gc4IxXOuTASoITFDuw+Z3z+DzVJVwtty6aoEUSQUtq0Pp4SeFj/lFZQ+DNbWw2GcFIABzv35opBHCJKW3KWws5c7p0FIV++9Stmg2+6ypq5ZdSYmhxCQOTqB477CiihLgvPXpz9R9GxrhL+OhuqiB4Ba2y0VD1cEYAwD2J2JBxUlbfDu1WyALldHZM3UjKGEjy8EjY5B3/eKKKycniOiEU7dCncLSRcgphOW1qKmkbKIGe+B7UUUVtZzPp//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Tri Martolod</div>
+                                    <div class="artist">Nolwenn Leroy</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAMGBwEEBQL/xAAtEAABAwMDAwMDBAMAAAAAAAABAgMRAAQFEiExBhNBIlFhFDLBB3GBkSNCYv/EABkBAAMAAwAAAAAAAAAAAAAAAAEDBAACBf/EACERAAICAQQCAwAAAAAAAAAAAAECABEDBBIhMQVREzLR/9oADAMBAAIRAxEAPwCoU4j66+fhl0mVEQQkcnjbeuYbNyNLSxoPhYg0/I3ikXrYb9KErTx58kn+6n/6QN4bIZO5OQCe6yyFgPkaTuoGP40H35qcsVG6VsceWlQcysltK+pDYBKSoJnxNZU0UPqToKwlXgVPepMKze5944FxpdkH5bQgaUuaR6ig8EzI+Y2rVyfSuRt2GVuW4ZR97rpWPR7SAZJ+KIy9XJjgq6nJwONtck8ylSQyFuKQSo8QEn80UnPMOYh+3Fu7cd9z/IoEbJB9tvMUUtkdjatUvw6jAi7XSzN22xbd3k7Zh4Btru+t5ELKU8jaQCT8mKsHBY/H4dpSBaksXae6rurSp1QPyAPG8DbfzUAwGIRlbtLZS2S4VadQgadQEmN55qynlJyXT1zeNWpQUONsNtodgBsJ0JEx/wA0c3VCDx5Hy7mHEjlnetWTlwEurDSNRtdQkJJPmN4gCQPc1t3XUKL0vBaUlK0rHbCe2ACBEiYO8mfzNQ7qYa78Jct+0EAjSTMTwJH7V4x9rZ3AbBt0gpbOqTydt+axcYIua6ltmVkUReetr69yP1Dl6HElKUplX2BIiIG1FJfs2OwSlKUqDepJH+xEE/minAepE4o8iLsXnWnHkNFQgqHpVB0k8A1aXQF0VdLOMXRPZXqhKRJ1pMpP90UUnVcJc6XiRuyEH1+SNZvJWQvbti5sg6p9PpX5Tpn5G0wdqcnI4Fxtorxlsh4OFw9t0oC0FSSEKEcAAj2/eiim4voInWknUNGdV5bB31uwxj8OLN1CdSVNKBTB4E8kfx4oooo3JD3P/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Toujours et autant</div>
+                                    <div class="artist">Yumi Kimura</div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </section>
+        </div>
+        <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
+    </foreignObject>
+</svg>
